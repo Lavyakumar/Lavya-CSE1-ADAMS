@@ -10,7 +10,7 @@
 ---
 ## 🎥 Project Video
 
-[Click here to view the Project Video]([https://www.example.com/video-link](https://1drv.ms/v/c/1b29cb5322b45e96/EbfAsX5nfwBHiZJG7sSP2IEBRGOnfcP2vnzVNkbAhrxfpg?e=QFvLJp)
+[Click here to view the Project Video](https://1drv.ms/v/c/1b29cb5322b45e96/EbfAsX5nfwBHiZJG7sSP2IEBRGOnfcP2vnzVNkbAhrxfpg?e=QFvLJp)
 
 ---
 ## 📚 Project Overview
