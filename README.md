@@ -3,7 +3,16 @@
 > A smart and efficient system for veterinary medication inventory management and animal healthcare record tracking.
 
 ---
+## 📄 Project Documentation
 
+[Click here to view the Project Report (PDF)](final.pdf)
+
+---
+## 🎥 Project Video
+
+[Click here to view the Project Video]([https://www.example.com/video-link](https://1drv.ms/v/c/1b29cb5322b45e96/EbfAsX5nfwBHiZJG7sSP2IEBRGOnfcP2vnzVNkbAhrxfpg?e=QFvLJp)
+
+---
 ## 📚 Project Overview
 
 The Advanced Doctor Animal Management System (ADAMS) is designed to optimize veterinary operations by:
