@@ -32,7 +32,7 @@ Here’s a glimpse of the ADAMS web dashboard:
 
 ---
 
-## 🌟 Features
+## 🌟 Features & Future Scopes
 
 - 📦 **Real-Time Medication Inventory Tracking**
 - ⏰ **Expiration Date Monitoring & Alerts**
@@ -77,21 +77,10 @@ Here’s a glimpse of the ADAMS web dashboard:
 ## 📝 Results
 
 - 95% accuracy in stock and expiration tracking
-- SUS Usability Score: 79
 - 4.5/5 rating for notification reliability
 - Workflow streamlined with a 60% reduction in manual tracking time
 
 ---
-
-## 📖 References
-
-- Mahalle, C., Katre, H., & Chaube, A. (2021). Enhancing Animal Healthcare through Digital Record Keeping. *IJTSRD*.
-- Triet, M. N., et al. (2024). Enhanced Security for Animal Health Records Using RSA-Encrypted NFTs. *Lecture Notes in Computer Science*.
-- Molloy, T. (2023). Recent Technological Advancements in Veterinary Medicine. *VETport*.
-- Brown, A. (2025). 8 Veterinary Technology Trends. *Harvard*.
-
----
-
 ## 🌐 Live Project
 
 👉 [View our project site here!](https://lavyakumar.github.io/Lavya-CSE1-ADAMS/)
@@ -102,7 +91,7 @@ Here’s a glimpse of the ADAMS web dashboard:
 
 - **Industry Mentor:** Dr. Lokkit Chaudhary
 - **Faculty Mentor:** Dr. Saneh Lata Yadav
-- **Developers:** Lavya Kumar and Team
+- **Developers:** Lavya Kumar| Ashmita | Yash Malik | Sneha Sharma
 
 ---
 
