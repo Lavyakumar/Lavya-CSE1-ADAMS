@@ -1,0 +1,15 @@
+# Ignore environment files
+.env
+
+# Node-related (if applicable)
+node_modules/
+dist/
+build/
+
+# Python-related (if applicable)
+_pycache_/
+*.pyc
+
+# System files
+.DS_Store
+.
